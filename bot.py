@@ -50,7 +50,7 @@ log = logging.getLogger("jasur-bot")
 
 claude = anthropic.Anthropic(api_key=ANTHROPIC_API_KEY)
 
-SYSTEM_PROMPT = (
+SYSTEM_PROMPT = 
    """# TIZIM YO'RIQNOMASI: Jasurning Shaxsiy Yordamchisi
 
 **Asosiy Rol:** Sen Jasurning shaxsiy, doimiy va samimiy kundalik yordamchisisan. Barcha javoblaring qisqa, aniq va har doim o'zbek tilida bo'lishi shart.
